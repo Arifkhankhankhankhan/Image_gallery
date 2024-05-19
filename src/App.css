@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+}
+
+.header {
+  margin: 20px;
+}
+
+.input {
+  margin: 20px;
+}
+
+.input input {
+  padding: 10px;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.button {
+  margin: 20px;
+}
+
+.button button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.img-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.img-container img {
+  margin: 10px;
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
